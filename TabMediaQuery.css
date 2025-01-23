@@ -1,0 +1,135 @@
+@media screen and (max-width: 1024px) {
+  .navigation-menu {
+    display: none;
+  }
+  .mob-menu {
+    display: block;
+    width: 24px;
+    height: 24px;
+  }
+  .mob-logo {
+    display: block;
+  }
+  .web-logo {
+    display: none;
+  }
+  .logo-container {
+    gap: 16px;
+    align-items: center;
+  }
+  .header-container {
+    max-width: 653px;
+  }
+  .main-section-banner {
+    flex-direction: column;
+    padding-block: 88px;
+    max-width: 631px;
+    gap: 28px;
+  }
+  .banner-btns {
+    justify-content: center;
+  }
+  .banner-left-container h4 {
+    text-align: center;
+  }
+  .banner-left-container h1 {
+    text-align: center;
+  }
+  .main-ad-container {
+    max-width: 647px;
+  }
+  .ad-company-logo-container {
+    max-width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .footer-main-div {
+    max-width: 652px;
+    padding-block: 28px;
+  }
+  .footer-parent {
+    flex-direction: column;
+    gap: 48px;
+  }
+  .left-footer-div {
+    width: 100%;
+    max-width: 267px;
+    margin-inline: auto;
+  }
+  .right-footer-div {
+    width: 100%;
+  }
+  .footer-logo-container {
+    justify-content: center;
+  }
+  .footer-left-text {
+    text-align: center;
+  }
+  .made-by-text {
+    display: none;
+  }
+  .contact-us-container {
+    flex-direction: column;
+  }
+  .right-form-div {
+    width: 65%;
+    padding-inline: 33px;
+  }
+  .why-you-choose-parent-container {
+    max-width: 644px;
+  }
+  .why-u-choose-card-container {
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 52px;
+  }
+  .features-card-container {
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 52px;
+  }
+  .plain-details-card-container {
+    flex-direction: column;
+    gap: 24px;
+    max-width: 70%;
+    margin-inline: auto;
+  }
+  .plain-detail-card {
+    width: 100%;
+    box-shadow: unset;
+  }
+  .plan-details-section {
+    background-color: white;
+  }
+  .client-review-parent-div {
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 54px;
+  }
+  .client-says-container {
+    max-width: 536px;
+  }
+  .review-card {
+    width: 100%;
+  }
+  .profile-pic {
+    display: block;
+    margin-inline: auto;
+  }
+  .faq-container {
+    max-width: 536px;
+    justify-content: center;
+    flex-direction: column;
+    gap: 54px;
+  }
+  .right-faq-div {
+    width: 100%;
+  }
+  .left-faq-div {
+    width: 100%;
+  }
+  .banner-bg-div {
+    max-width: 652px;
+  }
+}

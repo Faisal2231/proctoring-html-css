@@ -1,0 +1,260 @@
+@media screen and (max-width: 768px) {
+  .header-container {
+    max-width: 349px;
+  }
+  .banner-left-container h1 {
+    font-size: 30px;
+  }
+  .banner-left-container h4 {
+    font-size: 18px;
+  }
+  .main-section-banner {
+    max-width: 346px;
+    gap: 49px;
+  }
+  .banner-img {
+    width: 322px;
+    height: 197px;
+  }
+  .banner-btns {
+    flex-direction: column;
+  }
+  .demo-btn,
+  .call-us-btn {
+    width: 170px;
+    height: 52px;
+  }
+  .ad-parent svg {
+    display: none;
+  }
+  .ad-company-logo-container {
+    grid-template-columns: 1fr 1fr;
+  }
+  .ad-text-container h3 {
+    font-size: 20px;
+  }
+  .ad-text-container p {
+    margin-top: 15px;
+  }
+  .main-ad-container {
+    max-width: 349px;
+  }
+  .ad-parent {
+    display: block;
+  }
+  .ad-company-logo-container {
+    gap: 3px;
+  }
+  .features-section-main {
+    max-width: 301px;
+  }
+  .features-section-main h1 {
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .features-section-main p {
+    font-size: 15px;
+  }
+  .features-card-container {
+    padding-inline: 16px;
+    row-gap: 30px;
+  }
+  .features-card {
+    width: 100%;
+    padding-inline: 9px;
+  }
+  .why-you-choose-parent-container {
+    max-width: 308px;
+  }
+  .why-you-choose-parent-container h1 {
+    font-size: 25px;
+  }
+  .wyc-desc {
+    margin-top: 15px;
+  }
+  .menu-card-container {
+    flex-direction: column;
+    gap: 42px;
+  }
+  .wyc-container {
+    width: 53.6%;
+  }
+  .why-u-choose-card {
+    width: 100%;
+  }
+  .free-trial-box {
+    max-width: 335px;
+    padding: 0px;
+  }
+  .section-heading {
+    font-size: 25px;
+  }
+  .mob-hidden {
+    display: none;
+  }
+  .plain-details-card-container {
+    margin-top: 32px;
+    max-width: unset;
+  }
+  .plain-detail-card {
+    padding-bottom: 0px;
+  }
+  .client-says-container {
+    padding-top: 0px;
+  }
+  .plain-details-container {
+    max-width: 350px;
+  }
+  .plain-desc {
+    padding-bottom: 22px;
+  }
+  .plan-detail-parent {
+    max-width: unset;
+    padding: 38px 28px;
+  }
+  .client-review-parent-div {
+    margin-top: 48px;
+  }
+  .section-description {
+    font-size: 14px;
+  }
+  .free-trial-box button {
+    height: 64px;
+    width: 271px;
+    font-size: 20px;
+  }
+  .plan-detail-parent {
+    max-width: 350px;
+  }
+  .currency {
+    right: 192px !important;
+  }
+  .frequency {
+    left: 192px !important;
+  }
+  .three-digit-currency {
+    right: 205px !important;
+  }
+  .three-digit-frequency {
+    left: 205px !important;
+  }
+  .plan-btn {
+    margin-block: 46px;
+  }
+  .client-says-container {
+    max-width: 316px;
+  }
+  .client-name {
+    font-size: 16px;
+  }
+  .review-desc {
+    font-size: 10px;
+  }
+  .faq-container {
+    max-width: 293px;
+  }
+  .faq-section-heading {
+    font-size: 20px;
+  }
+  .faq-left-text {
+    font-size: 8px;
+  }
+  .qusetion-div h3 {
+    font-size: 11px;
+  }
+  .answer-div p {
+    font-size: 9px;
+  }
+  .banner-bg-div {
+    max-width: 350px;
+  }
+  .banner-bg-div {
+    flex-direction: column;
+    gap: 25px;
+  }
+  .banner-ad-heading {
+    font-size: 14px;
+  }
+  .banner-ad-text {
+    font-size: 8px;
+  }
+  .grey-btn {
+    width: 96px;
+    height: 28px;
+    font-size: 10px;
+    border-radius: 0px;
+    gap: 2px;
+  }
+  .right-arrow-btn {
+    width: 13px;
+    height: 13px;
+  }
+  .banner-right-img-div img {
+    width: 176px;
+    height: 176px;
+  }
+  .contact-us-left-img-div {
+    display: none;
+  }
+  .right-form-div h1 {
+    font-size: 22px;
+    padding-inline: 0px;
+  }
+  .right-form-div p {
+    font-size: 11px;
+    padding-inline: 0px;
+  }
+  .contact-us-container {
+    max-width: 339px;
+  }
+  .right-form-div {
+    max-width: 299px;
+    width: unset;
+  }
+  .form-submit-btn {
+    width: 109px;
+    height: 100%;
+    font-size: 11px;
+    border-radius: 0px;
+  }
+  .form-parent-div {
+    height: 32px;
+    padding: 8px;
+  }
+  .form {
+    height: 49px;
+  }
+  .social-icons-web {
+    display: none;
+  }
+  .social-icons-mob {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-block: 17px;
+  }
+  .sub-footer {
+    justify-content: center;
+  }
+  .copyright-text {
+    font-size: 14px;
+  }
+  .right-footer-div {
+    display: none;
+  }
+  .mob-footer-menu {
+    display: block;
+    padding-left: 21px;
+  }
+  .footer-colapse-div {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+  .footer-colapse-div p {
+    font-size: 22px;
+    color: white;
+    font-family: "Inter", serif;
+  }
+}
